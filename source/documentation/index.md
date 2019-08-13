@@ -153,7 +153,7 @@ Your service must be navigable and usable no matter how someone uses it (without
 * 2.4.2 Give every page a unique and helpful title that indicates the purpose of the page. [More about 2.4.2](/all.html#2-4-2-page-title-a)
 * 2.4.3 Make sure that things receive focus in an order that makes sense. [More about 2.4.3](/all.html#2-4-3-focus-order-a)
 * 2.4.4 Make sure the purpose of a link is obvious from its link text, or its link text in association with nearby content. [More about 2.4.4](/all.html#2-4-4-link-purpose-in-context-a)
-* 2.4.5 Unless a page is a step in a process, give people different ways of finding content (like searching or browsing links). [More about 2.4.5](/all.html#2-4-5-multiple-ways)
+* 2.4.5 Unless a page is a step in a process, give people different ways of finding content (like searching or browsing links). [More about 2.4.5](/all.html#2-4-5-multiple-ways-aa)
 * 2.4.6 Provide headings and form labels that will help people find content and complete tasks. [More about 2.4.6](/all.html#2-4-6-headings-and-labels-aa)
 * 2.4.7 Make sure that people using a keyboard to navigate can always see where they are on a page. [More about 2.4.7](/all.html#2-4-7-focus-visible-aa)
 * 2.5.1 <strong>[NEW]</strong> Do not require complex gestures to do things. [More about 2.5.1](/all.html#2-5-1-pointer-gestures-a)
